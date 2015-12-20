@@ -1,6 +1,6 @@
 <?php
 	function connection(){
-		$connection = mysqli_connect("localhost",'root','21()XySQr94','asuransi');
+		$connection = mysqli_connect("localhost",'root','','asuransi');
 		return $connection;
 	}
 
