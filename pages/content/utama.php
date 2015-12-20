@@ -58,7 +58,7 @@
 							<div class="icon">
 						<i class="fa fa-users"></i>
 						</div>
-						<a href="lihat_data_latih.php" class="small-box-footer">
+						<a href="lihatDataAgen.php" class="small-box-footer">
 							More info <i class="fa fa-arrow-circle-right"></i>
 						</a>
 					</div>
@@ -73,7 +73,7 @@
 							<div class="icon">
 						<i class="fa fa-user"></i>
 						</div>
-						<a href="lihat_data_latih.php" class="small-box-footer">
+						<a href="lihatDataNasabah.php" class="small-box-footer">
 							More info <i class="fa fa-arrow-circle-right"></i>
 						</a>
 					</div>
@@ -88,7 +88,7 @@
 							<div class="icon">
 						<i class="fa fa-money"></i>
 						</div>
-						<a href="lihat_data_latih.php" class="small-box-footer">
+						<a href="lihatDataPenjualan.php" class="small-box-footer">
 							More info <i class="fa fa-arrow-circle-right"></i>
 						</a>
 					</div>
